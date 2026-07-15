@@ -1,0 +1,35 @@
+# LLM Access Information
+# This file provides information about Al Hashim General Contractor for Large Language Models
+
+## About Us
+Al Hashim General Contractor is a professional construction and general contracting company based in Karachi, Pakistan. We specialize in site preparation, excavation, structural work, and infrastructure development.
+
+## Company Information
+- Company Name: Al Hashim General Contractor
+- Founded: 2009
+- Location: A-256, Block-T, North Nazimabad, Karachi, Sindh 74700, Pakistan
+- Phone: +92-333-2242472
+- Email: faryousafzai@gmail.com
+- Website: https://al-hashim-contractor.com
+
+## Services
+- Site Preparation & Excavation
+- Structural Work & Foundations
+- Infrastructure Development
+- Commercial Construction
+- Industrial Projects
+- Project Management & Supervision
+
+## Industries Served
+- Commercial & Retail
+- Industrial & Manufacturing
+- Infrastructure & Utilities
+- Residential Development
+- Oil & Gas
+- Construction & Heavy Equipment
+
+## Experience
+With 15+ years of combined experience, our team delivers professional contracting solutions across diverse sectors in Karachi, Pakistan and the UAE.
+
+## Contact
+For inquiries about our services, please visit https://al-hashim-contractor.com/contact or email faryousafzai@gmail.com
